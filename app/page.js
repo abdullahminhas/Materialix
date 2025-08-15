@@ -69,7 +69,7 @@ export default function Home() {
               />
             </svg>
           </CardHeader>
-          <img src="media.png" />
+          <img src="./media.png" />
           <CardContent className="flex flex-col gap-y-8">
             {/* <!-- Headline --> */}
             <div className="flex flex-col items-start">
